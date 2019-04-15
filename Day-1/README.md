@@ -1,4 +1,4 @@
-## Day 0: Beginning Javascript
+## Day 1: Beginning Javascript
 
 ### If/Else statement
 
