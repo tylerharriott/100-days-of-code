@@ -7,4 +7,4 @@
 **Thoughts:** First would like to say, Started doing the 100 days of coding challenge today :grin:. Big shoutout to Hugo P. for getting me started. Back to Javascript, so far i am really loving the language. I can see some similarities to Java however, I can also see the differences. I am excited to learn more.
 
 
-**Link to work:** [Basic Javascript](Day-1)
+**Link to work:** [Basic Javascript](Week-1/Day-1/README.md)
