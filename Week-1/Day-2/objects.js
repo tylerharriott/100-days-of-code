@@ -3,7 +3,8 @@
  ****************************/
 
 
-//Objects -> Key and Value (Object Literal)
+//Objects -> Key and Value 
+//Object Literal Syntax
 var john = {
     firstName: 'John',
     lastName: 'Smith',                      //An object can contain any type of data
