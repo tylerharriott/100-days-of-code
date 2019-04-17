@@ -1,3 +1,5 @@
+# Day 2: Functions, Arrays, and Objects
+---
 ## Functions
 
 Simple function declaration
