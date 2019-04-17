@@ -15,7 +15,7 @@
 
 **Today's Progress**: Finally touched on the subject of functions, arrays, and objects. Learned how functions are created in javascript as well as objects. Additionally, learned that Javascript arrays don't all have to be of the same type. This is because of type coercion.
 
-**Thoughts:** I really enjoy programming in javascript. I see more and more differences in the language compared to Java as I learn more and more. Like stated in the progress, I really love that the array elements don't all have to be the same data type. I also brushed my knowledge of functions and using the "this" keyword in methods.
+**Thoughts:** I really enjoy programming in Javascript. I see more and more differences in the language compared to Java as I learn more and more. Like stated in the progress, I really love that the array elements don't all have to be the same data type. I also brushed my knowledge of functions and using the "this" keyword in methods.
 
 
 **Link to work:** [Functions, Arrays, and Objects](Week-1/Day-2)
