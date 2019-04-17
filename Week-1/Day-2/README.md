@@ -25,7 +25,7 @@ Statements perform actions,they do not immediately provide a result. Forexample,
 Expressions, are anything that produce a resut. For example, a function that returns a value.
 
 ```javascript
-
+//Function expression
 var whatDoYouDo = function(job,firstName) {
 
             switch(job){
