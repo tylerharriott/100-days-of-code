@@ -6,7 +6,8 @@
 //Only objects have methods
 
     
-//Object   
+//Object
+//Object Literal Syntax
 var john = {
     firstName: 'John',
     lastName: 'Smith',                      //An object can contain any type of data
