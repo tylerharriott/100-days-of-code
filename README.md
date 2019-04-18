@@ -30,3 +30,6 @@
 
 **Link to work:** [Loops](Week-1/Day-3)
 
+#### It may be confusing to understand, but its progress!!
+ ![Loop](img/loop_output.png)  
+
