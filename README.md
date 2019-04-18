@@ -19,3 +19,14 @@
 
 
 **Link to work:** [Functions, Arrays, and Objects](Week-1/Day-2)
+
+---
+### Day 3: April 17, 2019 
+
+**Today's Progress**: Got started on loops and iterations today. Just learned how to incorporate a for loop and a while loop into my code. (:fire: :fire: :fire:)
+
+**Thoughts:** I am really understanding the power of Javascript. It is such a veratile OOP language and has a simple to understand syntax. I hope to continue to get better and will try to write more clean code. Lets see what Day 4 brings!!
+
+
+**Link to work:** [Loops](Week-1/Day-3)
+
