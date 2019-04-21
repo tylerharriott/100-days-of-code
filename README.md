@@ -2,7 +2,7 @@
 
 ### Day 1: April 15, 2019 
 
-**Today's Progress**: Started to deep deeper into the wonderful world of Javascript. Learned all about If/Else statements, Switch statements, and even Ternary Operators. Also learned, about Truthy and fasly. And equality.
+**Today's Progress**: Started to deep deeper into the wonderful world of Javascript. Learned all about If/Else statements, Switch statements, and even Ternary Operators. Also learned, about Truthy and fasly, and equality.
 
 **Thoughts:** First would like to say, Started doing the 100 days of coding challenge today :grin:. Big shoutout to Hugo P. for getting me started. Back to Javascript, so far i am really loving the language. I can see some similarities to Java however, I can also see the differences. I am excited to learn more.
 
@@ -42,4 +42,13 @@
 
 **Link to work:** [Coding Challenge](Week-1/Day-4)
 
+---
+### Day 5: April 20, 2019 
+
+**Today's Progress**: Learned more about ECMAScript 5. Also, was taught more about Execution Stack and how a Javascript Engine actually operates.
+
+**Thoughts:** The more I program in Javscript, the more I relize how fun coding can really be. I hope to design a application one day that really helps solve a real world issue. Keep coding!!!
+
+
+**Link to work:** [Basic Javascript](Week-1/Day-5)
 
