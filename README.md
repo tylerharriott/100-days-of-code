@@ -32,4 +32,14 @@
 
 #### It may be confusing to understand, but its progress!!
  ![Loop](img/loop_output.png)  
+ 
+ ---
+ ### Day 4: April 18, 2019 
+
+**Today's Progress**: I finished the coding challenge for the basics to Javascript. I combined all the information i learned tointo one coding task. (Objects, variables, loops, functions, operators)
+
+**Thoughts:** I didn't realize how hard it is to et aside time to code for at least 1 hour a day. Although hard, I promised to stick through until the very end. I continue to program in Javascript and am activity thinking about becoming a web designer. Lets see where i go next.
+
+**Link to work:** [Basic Javascript](Week-1/Day-4)
+
 
