@@ -1,7 +1,6 @@
 ## Day 5: Execution Stack
 
-The Execution process:
-
+Javascript code:
 ```javascript
 let a = 'Hello World!';
 function first() {
@@ -15,3 +14,9 @@ function second() {
 first();
 console.log('Inside Global Execution Context');
 ```
+
+Execution Process:
+![Execution](img/execution.png)
+
+
+
