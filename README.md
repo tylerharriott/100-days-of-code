@@ -40,6 +40,6 @@
 
 **Thoughts:** I didn't realize how hard it is to et aside time to code for at least 1 hour a day. Although hard, I promised to stick through until the very end. I continue to program in Javascript and am activity thinking about becoming a web designer. Lets see where i go next.
 
-**Link to work:** [Basic Javascript](Week-1/Day-4)
+**Link to work:** [Coding Challenge](Week-1/Day-4)
 
 
