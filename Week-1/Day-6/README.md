@@ -87,6 +87,7 @@ function calculateAge(year) {
     console.log(this);
 }
 ```
+![Window](img/window_func.png)
 
 
 * Method call - The "this" keyword points to the object that is calling the method.
@@ -106,6 +107,10 @@ var john = {
 }
 
 ```
+![Object](img/object_func.png)
+
+
+
 * Common Javascript practice
 
 ```javascript
