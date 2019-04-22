@@ -56,10 +56,10 @@
 
 ### Day 6: April 21, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Learned about the Global Context and Execution Context. Had an in depth review of "Scope Chain" and the "this" keyword. Today was more of a overview of how Javascript works in the back-end. I have been educated more on the theoretical side of Javascript. In turn, this will make me an overall better developer :grin:.
 
-**Thoughts:** First would like to say, Started doing the 100 days of coding challenge today :grin:. Big shoutout to Hugo P. for getting me started. Back to Javascript, so far i am really loving the language. I can see some similarities to Java however, I can also see the differences. I am excited to learn more.
+**Thoughts:** Although, I am recently sick I still was able to push through and learn more about how Javascript works. I realize that if I want to become a better developer I can't just know how to code, but also I must know how the back-end or "compiler" of each language operates.
 
 
-**Link to work:** [Global Context](Week-1/Day-6)
+**Link to work:** [Variables,Scope,"this"](Week-1/Day-6)
 
