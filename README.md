@@ -73,3 +73,15 @@
 
 
 **Link to work:** [HTML and CSS](Week-1/Day-7)
+
+---
+
+
+### Day 8: April 23, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** [DOM Manipulation](Week-2/Day-8)
