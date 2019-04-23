@@ -86,4 +86,4 @@
 
 **Link to work:** [DOM Manipulation](Week-2/Day-8)
 
-**Project:** [Pig-Game](tylerharriott)
+**Project:** [Pig-Game](tylerharriott/Pig-Game)
