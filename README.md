@@ -86,4 +86,4 @@
 
 **Link to work:** [DOM Manipulation](Week-2/Day-8)
 
-**Project:** [Pig-Game](Pig-Game/README.md)
+**Project:** [Pig-Game](Pig-Game)
