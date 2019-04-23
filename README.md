@@ -72,4 +72,4 @@
 **Thoughts:** This section of my learning is going to be really enjoyable. I start to actually code and build a website that is interactive. I am finally putting my Javascript basics to use.
 
 
-**Link to work:** [Loops](Week-1/Day-7)
+**Link to work:** [HTML and CSS](Week-1/Day-7)
