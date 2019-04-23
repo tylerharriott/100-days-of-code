@@ -63,3 +63,13 @@
 
 **Link to work:** [Variables,Scope,"this"](Week-1/Day-6)
 
+--- 
+
+### Day 7: April 22, 2019 
+
+**Today's Progress**: Crash course in HTML and CSS. Learnt about how to link up the hmtl attribute identifier class and id.
+
+**Thoughts:** This section of my learning is going to be really enjoyable. I start to actually code and build a website that is interactive. I am finally putting my Javascript basics to use.
+
+
+**Link to work:** [Loops](Week-1/Day-7)
