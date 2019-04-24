@@ -28,3 +28,30 @@ document.querySelector('.dice').style.display = 'none';        //CSS style is ch
 ---
 
 ### Lecture 2
+Event Handler:
+```javascript
+
+document.querySelector('.btn-roll').addEventListener('click',function());
+
+```
+
+Callback function:
+```javascript
+document.querySelector('.btn-roll').addEventListener('click',function(){
+  //Do something here
+});
+
+```
+
+Another way to select element ID:
+```javascript
+document.getElementById('score-0').textContent = '0';
+```
+
+Changing the image in a <img> element:
+```javascript
+//Changes the source of the image
+    diceDOM.src = 'dice-' + dice + '.png';
+
+```
+
