@@ -79,9 +79,9 @@
 
 ### Day 8: April 23, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Starting working on a new Javascript project encompassing everything I have learned so far. I started learning more about Document Object Model(DOM) Manipuation. I am starting to see the bigger picture on how Javascript makes website more interactive for the user.
 
-**Thoughts:** 
+**Thoughts:**: DOM Manipulation is challenging at first, but he more I practice writing the code, the more I will get better. I hope to eventually write this code so frequently that it just becomes second nature. All in all, I really like making websites now and will keep practicing my craft.
 
 
 **Link to work:** [DOM Manipulation](Week-2/Day-8)
@@ -97,5 +97,7 @@
 
 
 **Link to work:** [DOM Manipulation](Week-2/Day-9)
+
+**Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
 
 
