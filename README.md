@@ -87,3 +87,15 @@
 **Link to work:** [DOM Manipulation](Week-2/Day-8)
 
 **Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
+---
+### Day 9: April 24, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** [DOM Manipulation](Week-2/Day-9)
+
+
