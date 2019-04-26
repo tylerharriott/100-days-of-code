@@ -81,7 +81,7 @@
 
 **Today's Progress**: Starting working on a new Javascript project encompassing everything I have learned so far. I started learning more about Document Object Model(DOM) Manipuation. I am starting to see the bigger picture on how Javascript makes website more interactive for the user.
 
-**Thoughts:**: DOM Manipulation is challenging at first, but he more I practice writing the code, the more I will get better. I hope to eventually write this code so frequently that it just becomes second nature. All in all, I really like making websites now and will keep practicing my craft.
+**Thoughts:** DOM Manipulation is challenging at first, but he more I practice writing the code, the more I will get better. I hope to eventually write this code so frequently that it just becomes second nature. All in all, I really like making websites now and will keep practicing my craft.
 
 
 **Link to work:** [DOM Manipulation](Week-2/Day-8)
@@ -91,13 +91,27 @@
 ---
 ### Day 9: April 24, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: I finished up coding up the score features. Calculating the score, switching player turns, and showing the current score.
 
-**Thoughts:** 
+**Thoughts:** I am stepping closer and closer to finishing my first Javascript based design. I am really proud of myself and the accomplishments I have made so far in this language. I love the ease of use with Javascritpt.
 
 
 **Link to work:** [DOM Manipulation](Week-2/Day-9)
 
 **Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
+---
+
+### Day 10: April 25, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** [DOM Manipulation](Week-2/Day-10)
+
+**Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
 
 
