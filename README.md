@@ -104,9 +104,9 @@
 
 ### Day 10: April 25, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: I coded up the hold button. This holds the current round score into the player's final score. Also, I added the "Winner!" message for once a player gets a score equal to 100 or above.
 
-**Thoughts:** 
+**Thoughts:** I am learning how to not repeat myself in my coding (D.R.Y). When you repeat yourself in coding, you are more likely to write buggy code. This is a useful tip that I will carry on with me when I start developing for work.
 
 
 **Link to work:** [DOM Manipulation](Week-2/Day-10)
