@@ -113,5 +113,32 @@
 
 **Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
 
+---
+
+### Day 11: April 26, 2019 
+
+**Today's Progress**: Today I worked on adding the **New Game** feature into the website. I even simplified my code by using the "D.R.Y" to not repeat myself while coding. I learned more about functions and even how to properly use an Event Handler.
+
+**Thoughts:** Coding is fun!! Nothing much to say today.
+
+**Link to work:** [DOM Manipulation](Week-2/Day-11)
+
+**Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
+---
+
+
+### Day 12: April 27, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [DOM Manipulation](Week-2/Day-12)
+
+**Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
+
+
 
 
