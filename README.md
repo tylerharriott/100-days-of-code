@@ -138,6 +138,8 @@
 
 **Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
 
+ ![Pig-Game](img/Pig-game.png)
+
 ---
 ### Day 13: April 28, 2019 
 
@@ -148,6 +150,7 @@
 **Link to work:** [Finishing Touch](Week-2/Day-13)
 
 **Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
 
 
 
