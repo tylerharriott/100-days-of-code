@@ -130,11 +130,22 @@
 
 ### Day 12: April 27, 2019 
 
+**Today's Progress**: I finally finished my first ever Javascript project!!! I learnt so much through my experience of DOM Manipulation and being taught more about functions and scope chain.
+
+**Thoughts:** I will be putting my project in a seperate repo. I have added also some instructions in order for a user to run the script. I am proud of yself and my accomplishments. 
+
+**Link to work:** [DOM Manipulation](Week-2/Day-12)
+
+**Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
+---
+### Day 13: April 28, 2019 
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
-**Link to work:** [DOM Manipulation](Week-2/Day-12)
+**Link to work:** [Finishing Touch](Week-2/Day-13)
 
 **Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
 
