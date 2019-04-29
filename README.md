@@ -143,13 +143,26 @@
 ---
 ### Day 13: April 28, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Did some finishing touches on the Pig-Game. I did a code challenge to add some extra features to the game. One of them being a piece of code that whenever the 6-dice gets rolled twice. Then, the round score gets wiped and set back to "0".
 
-**Thoughts:** 
+**Thoughts:** I am actually going to take a small break to focus more on my Java data structures learning. This will most likely be for about a couple of days. Hopefully I can keep learning.
 
 **Link to work:** [Finishing Touch](Week-2/Day-13)
 
 **Project:** [Pig-Game](https://github.com/tylerharriott/Pig-Game)
+
+---
+### Day 14: April 29, 2019 
+
+**Today's Progress**: Made an account on Leetcode today and started practicing my Java algorithms. I also am working on learning more about time and space complexity.
+
+**Thoughts:** I am super tired, but I will not stop coding.
+
+**Link to work:** [Leet Code](Week-2/Day-14)
+
+
+
+
 
 
 
