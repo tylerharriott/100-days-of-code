@@ -160,6 +160,17 @@
 
 **Link to work:** [Leet Code](Week-2/Day-14)
 
+---
+### Day 15: April 30, 2019 
+
+**Today's Progress**: Today was spent focusing my attention on Object constructors, Prototype, and the Prototype chain. I already had an idea how the setup would be based off of other OOP languages I know. I also have a deeper understanding of how inheritance works through Javascript.
+
+**Thoughts:** I am starting to get the hang of Javascript. It will take me some time to really know the essentials but, I have confiedence in myself that I will be able to learn enough within my 100 days.15 days done, 85 85 days left.
+
+**Link to work:** [Objects, Inheritance, Prototype](Week-3/Day-15)
+
+
+
 
 
 
