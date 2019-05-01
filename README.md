@@ -165,9 +165,21 @@
 
 **Today's Progress**: Today was spent focusing my attention on Object constructors, Prototype, and the Prototype chain. I already had an idea how the setup would be based off of other OOP languages I know. I also have a deeper understanding of how inheritance works through Javascript.
 
-**Thoughts:** I am starting to get the hang of Javascript. It will take me some time to really know the essentials but, I have confiedence in myself that I will be able to learn enough within my 100 days.15 days done, 85 85 days left.
+**Thoughts:** I am starting to get the hang of Javascript. It will take me some time to really know the essentials but, I have confiedence in myself that I will be able to learn enough within my 100 days. 15 days done, 85 days left.
 
 **Link to work:** [Objects, Inheritance, Prototype](Week-3/Day-15)
+
+---
+
+### Day 16: May 1, 2019 
+
+**Today's Progress**: Today I started to dive into the wonderful world of objects. I started learning about another way to create an object. Yesterday, I used my time to focus on the best practice of function constructor. Now today I studied an alternative. I also was taught more about the difference between Primitives and objects.
+
+**Thoughts:** Today was a real learning experience for me. I realized that Java is the only main language I have been using for so long. So now my brain has to re-wire itself to think differently when programming in javascript. All in all, I am trying my best to keep learning and applying the knowledge I gain.
+
+**Link to work:** [Advance Objects | Primitives](Week-3/Day-16)
+
+
 
 
 
