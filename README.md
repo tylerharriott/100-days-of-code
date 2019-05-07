@@ -182,11 +182,11 @@
 ---
 ### Day 17: May 6, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Decided today to learn some new information on data structures, or more specifically Linked List. I develoepd code to show how to Taverse, Insert, and Delete using a Linked List
 
-**Thoughts:** 
+**Thoughts:**  I took a brief pause in my coding due to some family activites going on in the last couple of days. However, I am back and I will continue to work on Javascript as well as work on my knowledge of data structures and algorithims.
 
-**Link to work:** [Java Data Structures](Week-3/Day-17)
+**Link to work:** [Data Structures | Linked List](Week-3/Day-17)
 
 
 
