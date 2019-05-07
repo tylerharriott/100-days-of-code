@@ -179,6 +179,15 @@
 
 **Link to work:** [Advance Objects | Primitives](Week-3/Day-16)
 
+---
+### Day 17: May 6, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Java Data Structures](Week-3/Day-17)
+
 
 
 
