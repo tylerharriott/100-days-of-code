@@ -182,11 +182,20 @@
 ---
 ### Day 17: May 6, 2019 
 
-**Today's Progress**: Decided today to learn some new information on data structures, or more specifically Linked List. I develoepd code to show how to Taverse, Insert, and Delete using a Linked List
+**Today's Progress**: Decided today to learn some new information on data structures, or more specifically Linked List. I develoepd code to show how to Taverse, Insert, and Delete using a Linked List.
 
 **Thoughts:**  I took a brief pause in my coding due to some family activites going on in the last couple of days. However, I am back and I will continue to work on Javascript as well as work on my knowledge of data structures and algorithims.
 
 **Link to work:** [Data Structures | Linked List](Week-3/Day-17)
+---
+### Day 18: May 7, 2019 
+
+**Today's Progress**: Today I went over callback functions. I learned how callback functions work, as well as implement an example. All notes are posted in the attached link.
+
+**Thoughts:**  I realize how effective callback functions are in Javascript. It creates modular code that is easy to read and much friendlier to adding additional code to it. I hope to implemnt this logic when I start writing production enviornment code for my futre employer.
+
+**Link to work:** [Passing Functions](Week-3/Day-18)
+
 
 
 
