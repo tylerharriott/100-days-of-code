@@ -1,4 +1,4 @@
-## Day 18 - Passing functions as parameter
+## Day 18 - Passing functions as a parameter
 
 ### Tips to know about functions
 
