@@ -194,7 +194,7 @@
 
 **Thoughts:**  I realize how effective callback functions are in Javascript. It creates modular code that is easy to read and much friendlier to adding additional code to it. I hope to implemnt this logic when I start writing production enviornment code for my futre employer.
 
-**Link to work:** [Passing Functions](Week-3/Day-18)
+**Link to work:** [Passing Functions as Parameters](Week-3/Day-18)
 
 
 
