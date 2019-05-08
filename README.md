@@ -196,6 +196,15 @@
 
 **Link to work:** [Passing Functions as Parameters](Week-3/Day-18)
 
+---
+### Day 19: May 8, 2019 
+
+**Today's Progress**: Today's lesson was on learning about how a function can return a function.
+
+**Thoughts:**  This is a new concept to me and i am currently trying to wrap my head around it. I review it similar to recursion but at the same time it is vastly different. I will incorporate this idea into my next project and see how it benefits the project overall.
+
+**Link to work:** [Functions returning functions](Week-3/Day-19)
+
 
 
 
