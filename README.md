@@ -205,6 +205,16 @@
 
 **Link to work:** [Functions returning functions](Week-3/Day-19)
 
+---
+### Day 20: May 11, 2019 
+
+**Today's Progress**: Explored the world of IFFE. I learned about the power of IFIFE and having an anonymous function that can hide sensitive information.
+
+**Thoughts:**  An important part in building scalable applications is also making sure the security is at the max. Application security is a fundemntal part of designing effective code. So for me to learn more about IIFE really helped to drive home the topic of security for me.
+
+**Link to work:** [IIFE](Week-3/Day-20)
+
+
 
 
 
