@@ -214,6 +214,16 @@
 
 **Link to work:** [IIFE](Week-3/Day-20)
 
+---
+### Day 21: May 13, 2019 
+
+**Today's Progress**: Today I covered the topic of closures. Closures are a fundamental element in Javascript. They allow you to create a function that has access to elements like paramters and variables outside of that function. This is key because this is one of the benefits of using Javascript. Code becomes simplier and more easy to read and use. 
+
+**Thoughts:** I am getting better and better with my Javascript knowledge. I have started to design my website and do all the coding myself. I plan on incorporating the code I have learnt into the website. 
+
+**Link to work:** [Closures](Week-3/Day-21)
+
+
 
 
 
