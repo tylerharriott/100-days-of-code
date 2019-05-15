@@ -226,27 +226,8 @@
 ---
 ### Day 22: May 15, 2019 
 
-**Today's Progress**: 
+**Today's Progress**: Today I worked with Bind,Call, and Apply. I just finished up the course on advance Objects and Functions. I have learnt so much just from these few videos so far. I now have a deeper understanding of how object and created, stored, and manipulated. As well as, I now know moreabout functions and the many ways a developer can use then to accomplish a certain goal.
 
-**Thoughts:** 
+**Thoughts:** I love the way functions areused in Javascript. My favorite lesson from this section would be the IIFE. I know how important data securityand protection is to an application. So I thought it was really cool how Javscript has a builtin way to create an anonymous function to hide variables.
 
 **Link to work:** [Bind, Call, and Apply](Week-4/Day-22)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
