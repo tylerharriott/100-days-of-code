@@ -223,6 +223,17 @@
 
 **Link to work:** [Closures](Week-3/Day-21)
 
+---
+### Day 22: May 15, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Bind, Call, and Apply](Week-4/Day-22)
+
+
+
 
 
 
