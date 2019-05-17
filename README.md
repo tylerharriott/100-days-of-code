@@ -231,3 +231,12 @@
 **Thoughts:** I love the way functions areused in Javascript. My favorite lesson from this section would be the IIFE. I know how important data securityand protection is to an application. So I thought it was really cool how Javscript has a builtin way to create an anonymous function to hide variables.
 
 **Link to work:** [Bind, Call, and Apply](Week-4/Day-22)
+
+---
+### Day 23: May 16, 2019 
+
+**Today's Progress**: Part 7 of the coding challenge. My task was to create a basic Javascript console application to ask a user questions. Once the question is asked, I prompt the user for their answer. If they answer correctly then a ```Correct!!``` message will show. If it is wrong, then a ```Wrong!!``` message will show.
+
+**Thoughts:** These coding challenge questions are starting to get harder and more complicated. However, I know that although I am having a hard time, I will learn way more than I every imagined.
+
+**Link to work:** [Coding Challenge 7](Week-4/Day-23)
