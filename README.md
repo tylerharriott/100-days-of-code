@@ -240,3 +240,14 @@
 **Thoughts:** These coding challenge questions are starting to get harder and more complicated. However, I know that although I am having a hard time, I will learn way more than I every imagined.
 
 **Link to work:** [Coding Challenge 7](Week-4/Day-23)
+
+---
+### Day 24: May 21, 2019 
+
+**Today's Progress**: I focused my time today, educating myselfon modules. I worked on how to design them in Javascript, the benefits, and the added effectivness it has on a developer's code.
+
+**Thoughts:** Although I am busy with work for my job, I find time at the end of my work day to study and keep progressing in my Javascript knowledge. So farit is paying off and I hopeto put my experience with Javascript to good use.
+
+**Link to work:** [Modules](Week-4/Day-24)
+
+**Project:** [Budget-App](https://github.com/tylerharriott/Budget-App)
