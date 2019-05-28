@@ -251,3 +251,14 @@
 **Link to work:** [Modules](Week-4/Day-24)
 
 **Project:** [Budget-App](https://github.com/tylerharriott/Budget-App)
+
+---
+### Day 25: May 28, 2019 
+
+**Today's Progress**: Today I learned how to add an event listner for a key press event. Sometimesits appropriate to have a keypress listner as well as just an event listner or button listner. I also learned some new information about keypress and keycodes.  
+
+**Thoughts:** I haven't posted in a while since I had family over and I was out of town for memoprial day. Regardless, I am back and I will continue to learn moreabout Javascript. I am looking forward to learning npm, visual studio and much more. Happy programming eveyone!!
+
+**Link to work:** [Keypress Events](Week-4/Day-25)
+
+**Project:** [Budget-App](https://github.com/tylerharriott/Budget-App)
