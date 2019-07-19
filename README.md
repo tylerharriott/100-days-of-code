@@ -266,7 +266,7 @@
 ---
 ### Day 26: July 1, 2019 
 
-**Today's Progress**: I am continuing to learn more about how document.querySelector method works. In addition, I am learning to read input typevalue from HTML codeand better expressit in Javscritp code.
+**Today's Progress**: I am continuing to learn more about how document.querySelector method works. In addition, I am learning to read input typevalue from HTML codeand better expressit in Javscritpt code.
 
 **Thoughts:** I have stopped coding for some time. I have statrted to do more Java work at my job (UPS). I have a project I want to accomplish on schedule, so mostof my energy is spent learning Java and different automation tools from the industry. However, I have decided to go back to Javascript when I have some freetime to keep my skills sharp. Ofcourse in the end, I want to land a solid back-end developerjob.
 
