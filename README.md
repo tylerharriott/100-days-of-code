@@ -255,7 +255,7 @@
 ---
 ### Day 25: May 28, 2019 
 
-**Today's Progress**: Today I learned how to add an event listner for a key press event. Sometimesits appropriate to have a keypress listner as well as just an event listner or button listner. I also learned some new information about keypress and keycodes.  
+**Today's Progress**: Today I learned how to add an event listner for a key press event. Sometimes its appropriate to have a keypress listner as well as just an event listner or button listner. I also learned some new information about keypress and keycodes.  
 
 **Thoughts:** I haven't posted in a while since I had family over and I was out of town for memoprial day. Regardless, I am back and I will continue to learn moreabout Javascript. I am looking forward to learning npm, visual studio and much more. Happy programming eveyone!!
 
@@ -266,9 +266,9 @@
 ---
 ### Day 26: July 1, 2019 
 
-**Today's Progress**: I am continuing to learn more about how document.querySelector method works. In addition, I am learning to read input typevalue from HTML codeand better expressit in Javscritpt code.
+**Today's Progress**: I am continuing to learn more about how document.querySelector method works. In addition, I am learning to read input type value from HTML code and better express it in Javscritpt code.
 
-**Thoughts:** I have stopped coding for some time. I have statrted to do more Java work at my job (UPS). I have a project I want to accomplish on schedule, so mostof my energy is spent learning Java and different automation tools from the industry. However, I have decided to go back to Javascript when I have some freetime to keep my skills sharp. Ofcourse in the end, I want to land a solid back-end developerjob.
+**Thoughts:** I have stopped coding for some time. I have statrted to do more Java work at my job (UPS). I have a project I want to accomplish on schedule, so most of my energy is spent learning Java and different automation tools from the industry. However, I have decided to go back to Javascript when I have some freetime to keep my skills sharp. Ofcourse in the end, I want to land a solid back-end developer job.
 
 **Link to work:** [HTML Input Type](Week-4/Day-26)
 
